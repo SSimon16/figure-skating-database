@@ -4,6 +4,8 @@ Structured Database built from ISU competition protocols
 ## Summary
 This repository builds a structured database of figure skating scores from ISU competitions. Data sources include published competition protocol PDFs from the ISU ([example](http://www.isuresults.com/results/season1819/wc2019/wc2019_protocol.pdf)) for the 2019 World Championships) and other ISU communications. 
 
+### Project Goal
+Build a database of figure skating competition data, to allow for analysis and prediction of results, discrimination in scores, and more.
 
 ## Background
 The [International Skating Union](https://www.isu.org) publishes competition result protocols for all major competitions ([example](http://www.isuresults.com/results/season1819/wc2019/wc2019_protocol.pdf)). Each protocol includes all scores from a competition, and is available as a PDF online. Protocols are available from their inception in 2006 with the International Judging System (IJS) through present.  
